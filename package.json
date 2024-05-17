@@ -1,0 +1,22 @@
+{
+  "name": "chromatic_logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types":"lib/index.d.js",
+  "scripts": {
+    "build":"tsc",
+    "prepare":"npm run build"
+  },
+  "keywords": [],
+  "author": "Akshat Chaube",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akshatchaube01/Chromatic_Logger/issues"
+  },
+  "homepage": "https://github.com/Akshatchaube01/Chromatic_Logger",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "files":["lib/**/*"]
+}
