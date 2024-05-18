@@ -1,4 +1,3 @@
-```markdown
 # Chromatic Logger
 
 Welcome to **Chromatic Logger**, a simple and colorful logging library designed to make your console logs vibrant and visually appealing. With a variety of functions at your disposal, you can highlight important information, warnings, errors, and successes using different colors. This README will guide you through the available functions and how to use them effectively.
@@ -77,4 +76,3 @@ By using these functions, you can enhance your console output, making it easier 
 Chromatic Logger is a simple yet powerful tool to add color to your console logs. With functions for blue, red, green, and custom colored text, you can make your logs stand out and improve the overall readability of your console output.
 
 Happy logging!
-```
