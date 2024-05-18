@@ -1,12 +1,12 @@
 {
   "name": "chromatic_logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
-  "types":"lib/index.d.js",
+  "types": "lib/index.d.js",
   "scripts": {
-    "build":"tsc",
-    "prepare":"npm run build"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "keywords": [],
   "author": "Akshat Chaube",
@@ -18,5 +18,7 @@
   "devDependencies": {
     "typescript": "^5.4.5"
   },
-  "files":["lib/**/*"]
+  "files": [
+    "lib/**/*"
+  ]
 }
