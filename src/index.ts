@@ -7,7 +7,12 @@ export class Log{
         console.log(`%c ${msg}`,`color:red background:yellow`);
     }
 
-    static info(msg: string){
+    static sky(msg: string){
         console.log(`%c ${msg}`,`color:blue`);
     }
+
+    static my_color(msg : string, color: string){
+        console.log(`%c ${msg}`,`color:${color}`);
+    }
+
 }
